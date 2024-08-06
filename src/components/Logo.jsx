@@ -1,10 +1,10 @@
 /* eslint-disable no-unused-vars */
 import React from 'react'
 
-function Header() {
+function Logo() {
   return (
-    <div>header</div>
+    <div>logo</div>
   )
 }
 
-export default Header;
+export default Logo
